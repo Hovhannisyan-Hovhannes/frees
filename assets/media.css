@@ -1,0 +1,10 @@
+
+@media (max-width: 576px){
+    .block {
+        flex-direction: column;
+        
+    }
+    .color,.paint{
+        width: 100%;
+    }
+}
